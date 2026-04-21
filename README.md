@@ -14,6 +14,6 @@ Cada curso possui sua própria pasta com os arquivos Markdown organizados por te
 
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor na área de **Análise e Desenvolvimento de Sistemas**, apaixonado por aprendizado contínuo e boas práticas de desenvolvimento. Acredito que documentar o conhecimento é tão importante quanto adquiri-lo.
+Sou estudante na área de **Análise e Desenvolvimento de Sistemas**, apaixonado por aprendizado contínuo e boas práticas de desenvolvimento. Acredito que documentar o conhecimento é tão importante quanto adquiri-lo.
 
 ---
